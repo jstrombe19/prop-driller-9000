@@ -29,7 +29,7 @@ the Proptobots to display. All functions are already defined for you. The images
 the Proptobots are already in state, but their catchphrases need to be added. Both
 of these need to be passed through as props to the child components.
 
-
+If you need a reference, there is a gif walkthrough and a larger, 720p .mov Demo video.
 
 
 
